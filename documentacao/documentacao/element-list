@@ -1,0 +1,9 @@
+br.com.residencia.ecommerce
+br.com.residencia.ecommerce.config
+br.com.residencia.ecommerce.controller
+br.com.residencia.ecommerce.dto
+br.com.residencia.ecommerce.entity
+br.com.residencia.ecommerce.repository
+br.com.residencia.ecommerce.security
+br.com.residencia.ecommerce.service
+br.com.residencia.ecommerce.validador
