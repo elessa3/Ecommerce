@@ -137,4 +137,7 @@ public class PedidoService {
 		}
 		return ResponseEntity.status(HttpStatus.OK).build();
 	}
+
+	/* Criar um method de envio de email para confirmed o pedido 
+	*/
 }
